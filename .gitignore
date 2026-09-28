@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files (safety: keep secrets out of Git)
+.env
+.env.*
+!.env.example
