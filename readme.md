@@ -81,7 +81,7 @@ _Screenshots not added yet._
 
 ## Live Demo
 
-Live Demo: Not deployed yet
+Live Demo: https://business-landing-page-xnhi.netlify.app/
 
 ## Future Improvements
 
